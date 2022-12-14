@@ -1,0 +1,3 @@
+cd /home/pi/Desktop/Solar_Panel_project/solar_panel_server
+g++ -o solar_panel_server main.cpp MessageParser.cpp HexDealer.cpp users.cpp privilages.cpp solar_pannels.cpp solar_pannel_settings.cpp all_measurements_table.cpp -lpthread -lwebsockets -lmysqlclient -ldl -lssl -lcrypto
+./solar_panel_server 

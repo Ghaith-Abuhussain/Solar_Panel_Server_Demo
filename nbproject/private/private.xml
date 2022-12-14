@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>1</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/pi/Desktop/Solar_Panel_project/solar_panel_server/all_measurements_table.h</file>
+            <file>file:/home/pi/Desktop/Solar_Panel_project/solar_panel_server/solar_pannel_settings.h</file>
+            <file>file:/home/pi/Desktop/Solar_Panel_project/solar_panel_server/usefull_structures.h</file>
+            <file>file:/home/pi/Desktop/Solar_Panel_project/solar_panel_server/MessageParser.cpp</file>
+            <file>file:/home/pi/Desktop/Solar_Panel_project/solar_panel_server/solar_pannels.cpp</file>
+            <file>file:/home/pi/Desktop/Solar_Panel_project/solar_panel_server/users.cpp</file>
+            <file>file:/home/pi/Desktop/Solar_Panel_project/solar_panel_server/HexDealer.h</file>
+            <file>file:/home/pi/Desktop/Solar_Panel_project/solar_panel_server/all_measurements_table.cpp</file>
+            <file>file:/home/pi/Desktop/Solar_Panel_project/solar_panel_server/MessageParser.h</file>
+            <file>file:/home/pi/Desktop/Solar_Panel_project/solar_panel_server/HexDealer.cpp</file>
+            <file>file:/home/pi/Desktop/Solar_Panel_project/solar_panel_server/main.cpp</file>
+            <file>file:/home/pi/Desktop/Solar_Panel_project/solar_panel_server/solar_pannel_settings.cpp</file>
+            <file>file:/home/pi/Desktop/Solar_Panel_project/solar_panel_server/privilages.cpp</file>
+        </group>
+    </open-files>
+</project-private>

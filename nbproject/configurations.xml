@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>HexDealer.h</itemPath>
+      <itemPath>MessageParser.h</itemPath>
+      <itemPath>all_measurements_table.h</itemPath>
+      <itemPath>privilages.h</itemPath>
+      <itemPath>solar_pannel_settings.h</itemPath>
+      <itemPath>solar_pannels.h</itemPath>
+      <itemPath>usefull_structures.h</itemPath>
+      <itemPath>users.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>HexDealer.cpp</itemPath>
+      <itemPath>MessageParser.cpp</itemPath>
+      <itemPath>all_measurements_table.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+      <itemPath>privilages.cpp</itemPath>
+      <itemPath>solar_pannel_settings.cpp</itemPath>
+      <itemPath>solar_pannels.cpp</itemPath>
+      <itemPath>users.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <linkerTool>
+          <linkerLibItems>
+            <linkerLibStdlibItem>PosixThreads</linkerLibStdlibItem>
+            <linkerOptionItem>-lwebsockets</linkerOptionItem>
+            <linkerOptionItem>-lmysqlclient</linkerOptionItem>
+            <linkerOptionItem>-ldl</linkerOptionItem>
+            <linkerOptionItem>-lssl</linkerOptionItem>
+            <linkerOptionItem>-lcrypto</linkerOptionItem>
+          </linkerLibItems>
+        </linkerTool>
+      </compileType>
+      <item path="HexDealer.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="HexDealer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MessageParser.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MessageParser.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="all_measurements_table.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="all_measurements_table.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="privilages.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="privilages.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="solar_pannel_settings.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="solar_pannel_settings.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="solar_pannels.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="solar_pannels.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="usefull_structures.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="users.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="users.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="HexDealer.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="HexDealer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MessageParser.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MessageParser.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="all_measurements_table.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="all_measurements_table.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="privilages.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="privilages.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="solar_pannel_settings.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="solar_pannel_settings.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="solar_pannels.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="solar_pannels.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="usefull_structures.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="users.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="users.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

@@ -1,0 +1,2561 @@
+Login Message:
+Server Time: 16080B010509
+header= 255
+data length= 26
+direction= 1
+type= 1
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 5
+current_time.second= 10
+imei= 123456789123456
+check_sum= 30365
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B01050A
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 5
+current_time.second= 10
+content= 1
+check_sum= 32223
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B01050D
+header= 255
+data length= 22
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 5
+current_time.second= 13
+numalarm= 2
+alarm type[ 0 voltage low (null)
+alarm type[ 1 hum high (null)
+current= 130
+voltage= 283
+temp= 2500
+humidity= 8872
+check_sum= 38631
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010510
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 5
+current_time.second= 16
+content= 1
+check_sum= 5438
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010513
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 5
+current_time.second= 20
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 305
+voltage= 9288
+temp= 2500
+humidity= 8999
+check_sum= 58795
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010516
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 5
+current_time.second= 23
+content= 1
+check_sum= 22582
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010519
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 5
+current_time.second= 26
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9772
+temp= 2500
+humidity= 9133
+check_sum= 39940
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B01051C
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 5
+current_time.second= 29
+content= 1
+check_sum= 42310
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B01051F
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 5
+current_time.second= 32
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9797
+temp= 2500
+humidity= 9021
+check_sum= 31773
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010522
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 5
+current_time.second= 35
+content= 1
+check_sum= 35316
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010525
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 5
+current_time.second= 38
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9760
+temp= 2500
+humidity= 9046
+check_sum= 54104
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010528
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 5
+current_time.second= 41
+content= 1
+check_sum= 29828
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B01052B
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 5
+current_time.second= 44
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9698
+temp= 2500
+humidity= 8731
+check_sum= 5483
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B01052E
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 5
+current_time.second= 47
+content= 1
+check_sum= 8276
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010532
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 5
+current_time.second= 50
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9709
+temp= 2500
+humidity= 9113
+check_sum= 63949
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010535
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 5
+current_time.second= 53
+content= 1
+check_sum= 18613
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010538
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 5
+current_time.second= 56
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9761
+temp= 2500
+humidity= 8717
+check_sum= 5386
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B01053B
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 5
+current_time.second= 59
+content= 1
+check_sum= 53925
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010602
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 6
+current_time.second= 2
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9766
+temp= 2500
+humidity= 9113
+check_sum= 60682
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010605
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 6
+current_time.second= 5
+content= 1
+check_sum= 4467
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010608
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 6
+current_time.second= 8
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9695
+temp= 2500
+humidity= 8928
+check_sum= 53155
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B01060B
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 6
+current_time.second= 12
+content= 1
+check_sum= 50795
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B01060E
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 6
+current_time.second= 15
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9690
+temp= 2500
+humidity= 9104
+check_sum= 9038
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010611
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 6
+current_time.second= 18
+content= 1
+check_sum= 51690
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010614
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 6
+current_time.second= 21
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9757
+temp= 2500
+humidity= 9083
+check_sum= 27528
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010617
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 6
+current_time.second= 24
+content= 1
+check_sum= 13466
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B01061A
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 6
+current_time.second= 27
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9774
+temp= 2500
+humidity= 8857
+check_sum= 13964
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B01061D
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 6
+current_time.second= 30
+content= 1
+check_sum= 24650
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010620
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 6
+current_time.second= 33
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9743
+temp= 2500
+humidity= 9085
+check_sum= 25068
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010623
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 6
+current_time.second= 36
+content= 1
+check_sum= 11160
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010626
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 6
+current_time.second= 39
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9759
+temp= 2500
+humidity= 9048
+check_sum= 22132
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010629
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 6
+current_time.second= 42
+content= 1
+check_sum= 45448
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B01062C
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 6
+current_time.second= 45
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9774
+temp= 2500
+humidity= 8935
+check_sum= 51917
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B01062F
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 6
+current_time.second= 48
+content= 1
+check_sum= 55657
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010632
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 6
+current_time.second= 51
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9771
+temp= 2500
+humidity= 8831
+check_sum= 52416
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010636
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 6
+current_time.second= 54
+content= 1
+check_sum= 36281
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010639
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 6
+current_time.second= 57
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9720
+temp= 2500
+humidity= 8928
+check_sum= 22960
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010700
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 7
+current_time.second= 0
+content= 1
+check_sum= 13591
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010703
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 7
+current_time.second= 3
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9716
+temp= 2500
+humidity= 9077
+check_sum= 62830
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010706
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 7
+current_time.second= 6
+content= 1
+check_sum= 25031
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010709
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 7
+current_time.second= 9
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9741
+temp= 2500
+humidity= 8929
+check_sum= 60204
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B01070C
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 7
+current_time.second= 13
+content= 1
+check_sum= 34159
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B01070F
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 7
+current_time.second= 16
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9760
+temp= 2500
+humidity= 8956
+check_sum= 42195
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010712
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 7
+current_time.second= 19
+content= 1
+check_sum= 35566
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010715
+header= 255
+data length= 22
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 7
+current_time.second= 22
+numalarm= 2
+alarm type[ 0 temp high (null)
+alarm type[ 1 hum high (null)
+current= 204
+voltage= 3786
+temp= 3000
+humidity= 5588
+check_sum= 20301
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010718
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 7
+current_time.second= 25
+content= 1
+check_sum= 30622
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B01071B
+header= 255
+data length= 22
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 7
+current_time.second= 28
+numalarm= 2
+alarm type[ 0 temp high (null)
+alarm type[ 1 hum high (null)
+current= 204
+voltage= 3786
+temp= 3000
+humidity= 5588
+check_sum= 18202
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B01071E
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 7
+current_time.second= 31
+content= 1
+check_sum= 9038
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010721
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 7
+current_time.second= 34
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9778
+temp= 2500
+humidity= 8955
+check_sum= 19017
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010724
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 7
+current_time.second= 37
+content= 1
+check_sum= 26780
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010727
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 7
+current_time.second= 40
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9778
+temp= 2500
+humidity= 8976
+check_sum= 7620
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B01072B
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 7
+current_time.second= 43
+content= 1
+check_sum= 62092
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B01072E
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 7
+current_time.second= 46
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9757
+temp= 2500
+humidity= 9106
+check_sum= 17860
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010731
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 7
+current_time.second= 49
+content= 1
+check_sum= 39533
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010734
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 7
+current_time.second= 52
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9752
+temp= 2500
+humidity= 9115
+check_sum= 39068
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010737
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 7
+current_time.second= 55
+content= 1
+check_sum= 52925
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B01073A
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 7
+current_time.second= 58
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9783
+temp= 2500
+humidity= 8902
+check_sum= 19348
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010801
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 8
+current_time.second= 2
+content= 1
+check_sum= 19552
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010804
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 8
+current_time.second= 5
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9768
+temp= 2500
+humidity= 8913
+check_sum= 63201
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010807
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 8
+current_time.second= 8
+content= 1
+check_sum= 45328
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B01080A
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 8
+current_time.second= 11
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9759
+temp= 2500
+humidity= 9248
+check_sum= 59879
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B01080D
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 8
+current_time.second= 14
+content= 1
+check_sum= 58816
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010810
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 8
+current_time.second= 17
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9776
+temp= 2500
+humidity= 8874
+check_sum= 64197
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010813
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 8
+current_time.second= 20
+content= 1
+check_sum= 36129
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010816
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 8
+current_time.second= 23
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9776
+temp= 2500
+humidity= 8736
+check_sum= 9440
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010819
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 8
+current_time.second= 26
+content= 1
+check_sum= 5937
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B01081C
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 8
+current_time.second= 29
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9776
+temp= 2500
+humidity= 8939
+check_sum= 19383
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010820
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 8
+current_time.second= 32
+content= 1
+check_sum= 23779
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010823
+header= 255
+data length= 22
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 8
+current_time.second= 35
+numalarm= 2
+alarm type[ 0 voltage high (null)
+alarm type[ 1 hum high (null)
+current= 304
+voltage= 9804
+temp= 2500
+humidity= 9038
+check_sum= 60238
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010826
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 8
+current_time.second= 38
+content= 1
+check_sum= 2099
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010829
+header= 255
+data length= 22
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 8
+current_time.second= 41
+numalarm= 2
+alarm type[ 0 voltage high (null)
+alarm type[ 1 hum high (null)
+current= 304
+voltage= 9815
+temp= 2500
+humidity= 9011
+check_sum= 47319
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B01082C
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 8
+current_time.second= 44
+content= 1
+check_sum= 62787
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B01082F
+header= 255
+data length= 22
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 8
+current_time.second= 47
+numalarm= 2
+alarm type[ 0 voltage high (null)
+alarm type[ 1 hum high (null)
+current= 304
+voltage= 9827
+temp= 2500
+humidity= 8996
+check_sum= 8933
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010832
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 8
+current_time.second= 50
+content= 1
+check_sum= 64194
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010835
+header= 255
+data length= 22
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 8
+current_time.second= 54
+numalarm= 2
+alarm type[ 0 voltage high (null)
+alarm type[ 1 hum high (null)
+current= 304
+voltage= 9828
+temp= 2500
+humidity= 9089
+check_sum= 31487
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010838
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 8
+current_time.second= 57
+content= 1
+check_sum= 7786
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B01083B
+header= 255
+data length= 22
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 9
+current_time.second= 0
+numalarm= 2
+alarm type[ 0 voltage high (null)
+alarm type[ 1 hum high (null)
+current= 304
+voltage= 9857
+temp= 2500
+humidity= 9140
+check_sum= 11627
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010902
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 9
+current_time.second= 3
+content= 1
+check_sum= 3940
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010905
+header= 255
+data length= 22
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 9
+current_time.second= 6
+numalarm= 2
+alarm type[ 0 voltage high (null)
+alarm type[ 1 hum high (null)
+current= 303
+voltage= 9880
+temp= 2500
+humidity= 9148
+check_sum= 61431
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010908
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 9
+current_time.second= 9
+content= 1
+check_sum= 61972
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B01090B
+header= 255
+data length= 22
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 9
+current_time.second= 12
+numalarm= 2
+alarm type[ 0 voltage high (null)
+alarm type[ 1 hum high (null)
+current= 303
+voltage= 9871
+temp= 2500
+humidity= 9066
+check_sum= 53383
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B01090E
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 9
+current_time.second= 15
+content= 1
+check_sum= 42692
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010911
+header= 255
+data length= 22
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 9
+current_time.second= 18
+numalarm= 2
+alarm type[ 0 voltage high (null)
+alarm type[ 1 hum high (null)
+current= 304
+voltage= 9859
+temp= 2500
+humidity= 8874
+check_sum= 52391
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010914
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 9
+current_time.second= 21
+content= 1
+check_sum= 52773
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010917
+header= 255
+data length= 22
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 9
+current_time.second= 24
+numalarm= 2
+alarm type[ 0 voltage high (null)
+alarm type[ 1 hum high (null)
+current= 303
+voltage= 9885
+temp= 2500
+humidity= 8962
+check_sum= 36271
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B01091A
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 9
+current_time.second= 27
+content= 1
+check_sum= 21557
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B01091D
+header= 255
+data length= 22
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 9
+current_time.second= 30
+numalarm= 2
+alarm type[ 0 voltage high (null)
+alarm type[ 1 hum high (null)
+current= 303
+voltage= 9872
+temp= 2500
+humidity= 9046
+check_sum= 58039
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010921
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 9
+current_time.second= 33
+content= 1
+check_sum= 8167
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010924
+header= 255
+data length= 22
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 9
+current_time.second= 36
+numalarm= 2
+alarm type[ 0 voltage high (null)
+alarm type[ 1 hum high (null)
+current= 303
+voltage= 9874
+temp= 2500
+humidity= 9034
+check_sum= 6381
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010927
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 9
+current_time.second= 39
+content= 1
+check_sum= 19255
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B01092A
+header= 255
+data length= 22
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 9
+current_time.second= 42
+numalarm= 2
+alarm type[ 0 voltage high (null)
+alarm type[ 1 hum high (null)
+current= 304
+voltage= 9847
+temp= 2500
+humidity= 8808
+check_sum= 44939
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B01092D
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 9
+current_time.second= 45
+content= 1
+check_sum= 46663
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010930
+header= 255
+data length= 22
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 9
+current_time.second= 48
+numalarm= 2
+alarm type[ 0 voltage high (null)
+alarm type[ 1 hum high (null)
+current= 303
+voltage= 9863
+temp= 2500
+humidity= 8964
+check_sum= 12589
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010933
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 9
+current_time.second= 52
+content= 1
+check_sum= 62670
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010936
+header= 255
+data length= 22
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 9
+current_time.second= 55
+numalarm= 2
+alarm type[ 0 voltage high (null)
+alarm type[ 1 hum high (null)
+current= 304
+voltage= 9833
+temp= 2500
+humidity= 9206
+check_sum= 33099
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010939
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 9
+current_time.second= 58
+content= 1
+check_sum= 28382
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010A00
+header= 255
+data length= 22
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 10
+current_time.second= 1
+numalarm= 2
+alarm type[ 0 voltage high (null)
+alarm type[ 1 hum high (null)
+current= 304
+voltage= 9802
+temp= 2500
+humidity= 9060
+check_sum= 31967
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010A03
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 10
+current_time.second= 4
+content= 1
+check_sum= 44296
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010A06
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 10
+current_time.second= 7
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9799
+temp= 2500
+humidity= 9049
+check_sum= 34223
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010A09
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 10
+current_time.second= 10
+content= 1
+check_sum= 14104
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010A0C
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 10
+current_time.second= 13
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9790
+temp= 2500
+humidity= 8789
+check_sum= 1284
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010A0F
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 10
+current_time.second= 16
+content= 1
+check_sum= 24569
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010A12
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 10
+current_time.second= 19
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9775
+temp= 2500
+humidity= 8987
+check_sum= 12346
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010A15
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 10
+current_time.second= 22
+content= 1
+check_sum= 2857
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010A18
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 10
+current_time.second= 25
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9759
+temp= 2500
+humidity= 8968
+check_sum= 53625
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010A1C
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 10
+current_time.second= 28
+content= 1
+check_sum= 63065
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010A1F
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 10
+current_time.second= 31
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9743
+temp= 2500
+humidity= 9007
+check_sum= 50675
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010A22
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 10
+current_time.second= 34
+content= 1
+check_sum= 56043
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010A25
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 10
+current_time.second= 37
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9727
+temp= 2500
+humidity= 8900
+check_sum= 37482
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010A28
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 10
+current_time.second= 40
+content= 1
+check_sum= 10139
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010A2B
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 10
+current_time.second= 43
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9741
+temp= 2500
+humidity= 8846
+check_sum= 46010
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010A2E
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 10
+current_time.second= 46
+content= 1
+check_sum= 29515
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010A31
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 10
+current_time.second= 50
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9771
+temp= 2500
+humidity= 8790
+check_sum= 10760
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010A34
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 10
+current_time.second= 53
+content= 1
+check_sum= 626
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010A37
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 10
+current_time.second= 56
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9754
+temp= 2500
+humidity= 8906
+check_sum= 48368
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010A3A
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 10
+current_time.second= 59
+content= 1
+check_sum= 39010
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010B01
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 11
+current_time.second= 2
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9758
+temp= 2500
+humidity= 9015
+check_sum= 42304
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010B04
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 11
+current_time.second= 5
+content= 1
+check_sum= 60940
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010B07
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 11
+current_time.second= 8
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9769
+temp= 2500
+humidity= 9136
+check_sum= 42610
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010B0A
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 11
+current_time.second= 11
+content= 1
+check_sum= 29724
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010B0D
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 11
+current_time.second= 14
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9777
+temp= 2500
+humidity= 8957
+check_sum= 15708
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010B10
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 11
+current_time.second= 17
+content= 1
+check_sum= 7421
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010B13
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 11
+current_time.second= 20
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9777
+temp= 2500
+humidity= 9034
+check_sum= 33661
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010B16
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 11
+current_time.second= 23
+content= 1
+check_sum= 18477
+footer= 205
+##############################################
+
+ALarm Message:
+Server Time: 16080B010B19
+header= 255
+data length= 21
+direction= 1
+type= 4
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 11
+current_time.second= 26
+numalarm= 1
+alarm type[ 0 hum high (null)
+current= 304
+voltage= 9777
+temp= 2500
+humidity= 8929
+check_sum= 51361
+footer= 205
+##############################################
+
+heartbeat:
+Server Time: 16080B010B1D
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 11
+current_time.second= 29
+content= 1
+check_sum= 46429
+footer= 205
+##############################################
+
+measurment Message:
+Server Time: 16080B010B20
+header= 255
+data length= 19
+direction= 1
+type= 3
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 11
+current_time.second= 32
+current= 304
+voltage= 9777
+temp= 2500
+humidity= 9103
+check_sum= 14889
+footer= 205
+
+heartbeat:
+Server Time: 16080B010B23
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 11
+current_time.second= 35
+content= 1
+check_sum= 39407
+footer= 205
+##############################################
+
+measurment Message:
+Server Time: 16080B010B26
+header= 255
+data length= 19
+direction= 1
+type= 3
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 11
+current_time.second= 38
+current= 304
+voltage= 9777
+temp= 2500
+humidity= 9024
+check_sum= 41165
+footer= 205
+
+heartbeat:
+Server Time: 16080B010B29
+header= 255
+data length= 12
+direction= 1
+type= 2
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 11
+current_time.second= 41
+content= 1
+check_sum= 25759
+footer= 205
+##############################################
+
+measurment Message:
+Server Time: 16080B010B2C
+header= 255
+data length= 19
+direction= 1
+type= 3
+current_time.year= 22
+current_time.month= 8
+current_time.day= 10
+current_time.hour= 17
+current_time.minute= 11
+current_time.second= 44
+current= 304
+voltage= 9777
+temp= 2500
+humidity= 8960
+check_sum= 1785
+footer= 205
+
